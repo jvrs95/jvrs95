@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jvrs95
+- 👀 I’m interested in learning all computer languages, compete, make projects, games and anything at all.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on games based on education, websites and computer marathons.
+- 📫 How to reach me: email - jvrs95@gmail.com
